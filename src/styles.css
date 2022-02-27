@@ -80,7 +80,6 @@ h2 .orange-text {
 
 .logos-container .logos-cont {
     margin: 0;
-    /* width: calc(var(--page-width) * 0.23); */
 }
 
 .features-text {
@@ -236,7 +235,6 @@ button {
 
 main {
     width: calc(var(--page-width) * 0.72);
-    /* margin: 0 auto; */
     position: absolute;
     top: calc(var(--page-width) * 0.538);
     left: 50%;
